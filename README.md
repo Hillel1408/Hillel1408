@@ -6,7 +6,7 @@
 
 <ul>
   <li><a href="http://45.67.57.205:3000/">Помощник кондитеру.</a> Мой любимый фулстек проект, которому посвящаю все свободное время ❤️ Призван упростить управление заказами частным кондитерам и помочь с расчетом тортов. Полностью моя реализация от идеи до деплоя. Репозиторий приватный.</li>
-  <li><a href="https://github.com/Hillel1408/hawkingbros/tree/task-1">Монтаж дымоходов.</a> Верстка из макета Figma. Выполнена во время стажировки в Hawkingbros.</li>
+  <li><a href="https://github.com/Hillel1408/hawkingbros/tree/task-1">Монтаж дымоходов.</a> Адаптивная верстка из макета Figma. Выполнена во время стажировки в Hawkingbros.</li>
   <li><a href="https://github.com/Hillel1408/only-template">Only.</a> Небольшой проект на VanillaJS, выполненный в рамках стажировки в OnlyDigital.</li>
   <li><a href="https://github.com/Hillel1408/frontend-challenge">Кошачий пинтерест.</a> Проект на React, выполненный в рамках фронтенд-челленджа от Uchiru.</li>
 </ul>
