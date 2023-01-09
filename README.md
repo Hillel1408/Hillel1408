@@ -5,6 +5,7 @@
 Последние проекты
 
 <ul>
+  <li><a href="https://github.com/Hillel1408/hawkingbros/tree/task-1">Монтаж дымоходов.</a> Верстка из макета Figma. Выполнена во время стажировки в Hawkingbros.</li>
   <li><a href="https://github.com/Hillel1408/only-template">Only.</a> Небольшой проект на VanillaJS, выполненный в рамках стажировки в OnlyDigital.</li>
   <li><a href="https://github.com/Hillel1408/frontend-challenge">Кошачий пинтерест.</a> Проект на React, выполненный в рамках фронтенд-челленджа от Uchiru.</li>
 </ul>
