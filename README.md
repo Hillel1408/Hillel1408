@@ -4,4 +4,4 @@
 
 Связь со мной
 
-<a href="https://vk.com/id6832797"><img src="https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=0077FF"/></a>
+<a href="https://vk.com/id6832797"><img src="https://img.shields.io/badge/vkontakte-black?style=for-the-badge&logo=vk&logoColor=0077FF"/></a> <a href="https://t.me/Hillel1408"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=26A5E4"/></a>
