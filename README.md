@@ -8,7 +8,7 @@
   <li><a href="https://github.com/Hillel1408/hawkingbros/tree/task-1">Монтаж дымоходов.</a> Адаптивная верстка из макета Figma. Выполнена во время стажировки в Hawkingbros.</li>
   <li><a href="https://github.com/Hillel1408/only-task4-nextjs">Блог.</a> NextJS, выполнен на стажировке в OnlyDigital.</li>
   <li><a href="https://github.com/Hillel1408/only-template">Only.</a> Небольшой проект на VanillaJS, выполненный в рамках стажировки в OnlyDigital.</li>
-  <li><a href="https://github.com/Hillel1408/frontend-challenge">Кошачий пинтерест.</a> Проект на React, выполненный в рамках фронтенд-челленджа от Uchiru.</li>
+  <li><a href="https://github.com/Hillel1408/frontend-challenge">Кошачий пинтерест.</a> Проект на React, выполненный в рамках фронтенд-челленджа от Uchiru <a href="https://hillel1408.github.io/frontend-challenge/">Демо -></a></li>
   <li><a href="https://github.com/Hillel1408/pwb">PWB.</a> Верстка интернет-магазина, выполнена по заказу с fl.ru <a href="https://hillel1408.github.io/pwb/">Демо -></a></li>
 </ul>
 
