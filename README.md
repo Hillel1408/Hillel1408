@@ -9,7 +9,7 @@
   <li><a href="https://github.com/Hillel1408/only-task4-nextjs">Блог.</a> NextJS, выполнен на стажировке в OnlyDigital.</li>
   <li><a href="https://github.com/Hillel1408/only-template">Only.</a> Небольшой проект на VanillaJS, выполненный в рамках стажировки в OnlyDigital.</li>
   <li><a href="https://github.com/Hillel1408/frontend-challenge">Кошачий пинтерест.</a> Проект на React, выполненный в рамках фронтенд-челленджа от Uchiru.</li>
-  <li><a href="https://github.com/Hillel1408/pwb">PWB.</a>Верстка интернет-магазина, выполнена по заказу с fl.ru</li>
+  <li><a href="https://github.com/Hillel1408/pwb">PWB.</a> Верстка интернет-магазина, выполнена по заказу с fl.ru</li>
 </ul>
 
 Связь со мной
